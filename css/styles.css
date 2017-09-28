@@ -14,9 +14,6 @@
     width: 30%;
 
 }
-.cart img{
-
-}
 
 .cart span{
     font-size: 22px;
@@ -49,22 +46,14 @@
     left: 18%;
     border-right: 1px solid #D1C6C6;
 }
-/*.tb_img{
-    width: 58%;
-}*/
+
 .tb_img{
         width: 58%;
     position: relative;
     float: left;
 }
 
-/*.slide_price{
-    
-    top: 30%;
-    float: right;
-    position: absolute;
-    right: 3%;
-}*/
+
 .slide_price{
     margin-top: 35px;
 }
@@ -122,9 +111,7 @@
     border-radius: 7px;
 }
 
-.price{
 
-}
 .price span{
     font-size: 18px;
     font-style: normal;
