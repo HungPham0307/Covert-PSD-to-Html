@@ -1,0 +1,180 @@
+
+.clsearch{
+    margin-top: 10px;
+    position: relative;
+}
+
+
+.ipsearch{
+    width: 141%;	
+}
+.cart{
+    margin-top: 5px;
+    padding-left: 15%;
+    width: 30%;
+
+}
+.cart img{
+
+}
+
+.cart span{
+    font-size: 22px;
+    font-family: serif;
+     color: darkgray;
+}
+.listCat{
+    padding-top: 10px;
+    position: relative;
+    left: 3px;
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 10px;
+    background-color:  #00C8B5;
+}
+
+.listCat div a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: arial;
+}
+
+
+.col_img{
+    position: relative;
+    width: 22%;
+    left: 18%;
+    border-right: 1px solid #D1C6C6;
+}
+/*.tb_img{
+    width: 58%;
+}*/
+.tb_img{
+        width: 58%;
+    position: relative;
+    float: left;
+}
+
+/*.slide_price{
+    
+    top: 30%;
+    float: right;
+    position: absolute;
+    right: 3%;
+}*/
+.slide_price{
+    margin-top: 35px;
+}
+.slide_price p{
+    font-family: arial;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: darkgray;	
+}
+
+
+.main-products{
+    background-color: #00C8B5;
+    height: 60px;
+}
+.main-products h3{
+
+    color: white;
+    margin-left: 10%;
+    font-size: 19px;
+    font-weight: bold;
+    font-style: initial;
+    font-family: arial;
+}
+.main-content{
+    margin-top: 36px;
+}
+.setimg{
+    width: 26%;
+    position: relative;
+    left: 2%;
+    margin-left: 3%;	
+}
+.images{
+     border-bottom: 4px solid #00C8B5;
+}
+
+
+.images a{
+     text-decoration: none;
+}
+.images p:hover{
+     text-decoration: none;
+     background-color: lime;
+}
+
+.preview p {
+    font-family: arial;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: darkgray;
+    border: 1px;
+    border-radius: 7px;
+}
+
+.price{
+
+}
+.price span{
+    font-size: 18px;
+    font-style: normal;
+    color: darkgray;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.price a{
+    left: 31px;
+    position: relative;
+    bottom: 18px;
+}
+
+
+.footer{
+    
+    background-color: #00C8B5;
+}
+.footer h4{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 22px;	
+}
+.footer ul{
+     list-style-type: none;
+}
+.footer ul li {
+    margin-top: 10px;
+    color: white;
+    font-size: 14px;
+    font-family: arial;
+    font-style: italic;	
+}
+.copyright{
+    height: 60px;
+    background-color: #00AD9A;
+    position: relative;
+    top: -10px;
+}
+
+.copyright h4{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    top: 22px;	
+}
+.clr{
+    clear: both;
+}
