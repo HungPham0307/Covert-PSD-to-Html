@@ -81,6 +81,8 @@
 }
 .main-content{
     margin-top: 36px;
+    position: relative;
+    left: 3%;
 }
 .setimg{
     width: 26%;
